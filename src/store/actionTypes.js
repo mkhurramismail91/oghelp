@@ -1,0 +1,6 @@
+export default {
+    GET_USER : 'GET_USER',
+    GET_TOKEN : 'GET_TOKEN',
+    GET_COMPLETE : 'GET_COMPLETE',
+    UPDATE_USER : 'UPDATE_USER'
+}
